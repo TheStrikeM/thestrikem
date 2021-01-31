@@ -1,7 +1,7 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
 # Dinko Danil
-<p>Software Engineer, FrontEnd Developer</p>
+<p>&nbsp; Software Engineer, FrontEnd Developer</p>
 
 
 ### 💻 About me:
@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 
-#### ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
+#### &nbsp; ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 React, react-content-loader, react-skeleton, react-router-dom
-#### ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
+#### &nbsp; ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
 Redux, redux-thunk
