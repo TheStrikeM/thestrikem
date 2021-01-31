@@ -18,4 +18,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 
-#### ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react) :
+#### ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
+React, react-content-loader, react-skeleton, react-router-dom
+#### ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
+Redux, redux-thunk
