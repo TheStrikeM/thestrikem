@@ -17,6 +17,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+##### And more...
 
 #### ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 React, react-content-loader, react-skeleton, react-router-dom
