@@ -3,7 +3,7 @@
 # I am a J. Software Engineer and FrontEnd Developer
 
 
-### 💻 Languages and Tools:
+### 💻 About me:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
@@ -17,7 +17,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
-##### And more...
+##### I am a person who likes to constantly develop and improve my existing knowledge, I write mainly in JavaScript websites. I'm using the React framework. There was also the practice of developing telegram bots in Python.
 
 #### ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 React, react-content-loader, react-skeleton, react-router-dom
