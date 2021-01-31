@@ -1,6 +1,6 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-# TheStrikeM (Dinko Danil)
+# Dinko Danil
 <p>Software Engineer, FrontEnd Developer</p>
 
 
