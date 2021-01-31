@@ -25,6 +25,7 @@
 > Visit my [website](vk.com/thestrikem) for more information (My Skills, Stack ...)
 <p align="center">
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestrikem" /></a>
+<a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=YuriiLukianovych&show_icons=true" /></a>
 </p>
 <p align="center">
 <a href="https://thestrikem.github.io/"><img alt="Website" src="https://img.shields.io/badge/Вебсайт-www.thestrikem.github.io-blue?style=flat-square&logo=google-chrome"></a>
