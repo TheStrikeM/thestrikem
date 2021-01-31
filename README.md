@@ -5,7 +5,7 @@
 
 
 - ### 💻 About me:
-#### I am a person who likes to constantly develop and improve my existing knowledge, I write mainly in JavaScript websites. I'm using the React framework. There was also the practice of developing telegram bots in Python.
+> I am a person who likes to constantly develop and improve my existing knowledge, I write mainly in JavaScript websites. I'm using the React framework. There was also the practice of developing telegram bots in Python.
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
