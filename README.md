@@ -4,7 +4,7 @@
 <h3 align="center">&nbsp; Software Engineer, FrontEnd Developer</h3>
 
 
-<h3 align="center">💻 About me:</h3>
+<h3 align="center">🌐 About me:</h3>
 <p align="center">
   <img alt="Top Langs" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
