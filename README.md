@@ -15,8 +15,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
 
 ### 🔧 Other tools
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe-photoshop)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
