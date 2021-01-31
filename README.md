@@ -13,7 +13,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 
-🌐 My FrontEnd stack
+#### 🌐 My FrontEnd stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
