@@ -11,6 +11,6 @@
 ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3)
 ![ThreeJS](https://img.shields.io/badge/THREEJS-000000?style=for-the-badge&logo=THREEJS)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap)
