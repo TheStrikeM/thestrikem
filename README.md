@@ -21,3 +21,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 
 > Visit my [website](vk.com/thestrikem) for more information (My Skills, Stack ...)
+
+- ### 🌐 Follow me:
+<p align="center">
+<a href="https://thestrikem.github.io/"><img alt="Website" src="https://img.shields.io/badge/Вебсайт-www.thestrikem.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vk.com/thestrikem/"><img alt="VKontakte" src="https://img.shields.io/badge/ВКонтакте-thestrikem-blue?style=flat-square&logo=vk"></a>
+<a href="https://telegram.com/strikemmm/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-strikemmm-blue?style=flat-square&logo=Telegram"></a>
+<a href="mailto:dinkodanil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-me@dinkodanil@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
