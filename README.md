@@ -1,7 +1,7 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
 # TheStrikeM (Dinko Danil)
-## Software Engineer, FrontEnd Developer
+<p>Software Engineer, FrontEnd Developer</p>
 
 
 ### 💻 About me:
