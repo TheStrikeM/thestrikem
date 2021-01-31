@@ -2,12 +2,11 @@
 
 # I am a J. Software Engineer and FrontEnd Developer
 
-### &nbsp; Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 
-### &nbsp; FrontEnd
-- &nbsp; 
+### 🌐 FrontEnd
 ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5)
