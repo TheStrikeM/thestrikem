@@ -1,1 +1,1 @@
-[![Header](https://github.com/TheStrikeM/thestrikem/blob/main/assets/banner.png)](https://vk.com/thestrikem)
+## Hi!
