@@ -1,9 +1,11 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-# TheStrikeM (Dinko Danil) - Software Engineer, FrontEnd Developer
+# TheStrikeM (Dinko Danil)
+## Software Engineer, FrontEnd Developer
 
 
 ### 💻 About me:
+#### I am a person who likes to constantly develop and improve my existing knowledge, I write mainly in JavaScript websites. I'm using the React framework. There was also the practice of developing telegram bots in Python.
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
@@ -17,7 +19,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
-##### I am a person who likes to constantly develop and improve my existing knowledge, I write mainly in JavaScript websites. I'm using the React framework. There was also the practice of developing telegram bots in Python.
 
 #### ![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react)
 React, react-content-loader, react-skeleton, react-router-dom
