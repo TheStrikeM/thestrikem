@@ -19,5 +19,5 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 
 #### 🌐 My FrontEnd stack
-![React](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react): React, react-router-dom, react-content-loader, react-redux
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux): Redux, redux-thunk
+#### ![React](https://img.shields.io/badge/ReactJS%20-%20react-router-dom,%20react-content-loader,%20react-redux-000000?style=for-the-badge&logo=react)
+#### ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux): Redux, redux-thunk
