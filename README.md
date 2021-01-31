@@ -5,7 +5,6 @@
 
 
 <h3 align="center">💻 About me:</h3>
-<h4 align="center">I am a person who likes to constantly develop and improve my existing knowledge, I write mainly in JavaScript websites. I'm using the React framework. There was also the practice of developing telegram bots in Python.</h4>
 <p align="center">
   <img alt="Top Langs" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
