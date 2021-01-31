@@ -20,4 +20,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
 
-#### Visit my [website](vk.com/thestrikem) for more information (My Skills, Stack ...)
+> Visit my [website](vk.com/thestrikem) for more information (My Skills, Stack ...)
