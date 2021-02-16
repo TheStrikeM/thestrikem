@@ -22,7 +22,7 @@
 
 
 <p align="center">
-<a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=YuriiLukianovych&show_icons=true" /></a>
+<a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestrikem" /></a>
