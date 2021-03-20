@@ -10,6 +10,7 @@
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux"/>
+  <img alt="Top Langs" src="https://img.shields.io/badge/Nest-000000?style=for-the-badge&logo=Nest"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=Bootstrap"/>
