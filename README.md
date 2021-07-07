@@ -1,12 +1,11 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-<h1 align="center">Dinko Danil</h1>
-<h3 align="center">&nbsp; Software Engineer, Fullstack Developer</h3>
+<h1>Hi there</h1>
+<h3>&nbsp; I'm Junior Software Engineer, Fullstack Developer</h3>
 
 
-<h3 align="center">🌐 About me:</h3>
-<p align="center">
-  <img alt="Top Langs" src="https://simpleicons.org/icons/json.svg"/>
+<h3>🌐 About me:</h3>
+<p>
   <img alt="Top Langs" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React"/>
