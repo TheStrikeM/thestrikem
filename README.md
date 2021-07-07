@@ -1,10 +1,10 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-<h1>Hi there</h1>
-<h3>&nbsp; I'm Junior Software Engineer, Fullstack Developer</h3>
+<h3>Hi there</h1>
+<p>&nbsp; I'm Junior Software Engineer, Fullstack Developer</h3>
 
 
-<h3>🌐 About me:</h3>
+<h4>🌐 About me:</h3>
 <p>
   <img alt="Top Langs" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
