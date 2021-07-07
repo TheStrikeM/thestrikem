@@ -21,7 +21,7 @@
   <img alt="Top Langs" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma"/>
 </p>
 <br>
-<h4>Stats:</h4>
+<h4>My stats:</h4>
 <p>
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 </p>
