@@ -6,6 +6,7 @@
 
 <h3 align="center">🌐 About me:</h3>
 <p align="center">
+  <img height="20 "src="https://img.icons8.com/color/452/graphql.png">
   <img alt="Top Langs" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React"/>
