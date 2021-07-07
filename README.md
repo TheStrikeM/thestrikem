@@ -1,7 +1,7 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
 <h3>Hi there</h1>
-<p>&nbsp; I'm Junior Software Engineer, Fullstack Developer</h3>
+<p>&nbsp; I'm Junior Software Engineer, Fullstack Web Developer</h3>
 
 
 <h4>🌐 About me:</h3>
@@ -22,10 +22,10 @@
 </p>
 
 
-<p align="center">
+<p>
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 </p>
-<p align="center">
+<p>
 <a href="https://vk.com/thestrikem/"><img alt="VKontakte" src="https://img.shields.io/badge/ВКонтакте-thestrikem-blue?style=flat-square&logo=vk"></a>
 <a href="https://telegram.com/thestrikem/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-thestrikem-blue?style=flat-square&logo=Telegram"></a>
 <a href="mailto:dinkodanil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dinkodanil@gmail.com-blue?style=flat-square&logo=gmail"></a>
