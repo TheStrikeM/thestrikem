@@ -25,6 +25,3 @@
 <p>
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 </p>
-<p>
-<a href="mailto:dinkodanil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dinkodanil@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
