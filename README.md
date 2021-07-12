@@ -26,7 +26,5 @@
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 </p>
 <p>
-<a href="https://vk.com/thestrikem/"><img alt="VKontakte" src="https://img.shields.io/badge/ВКонтакте-thestrikem-blue?style=flat-square&logo=vk"></a>
-<a href="https://telegram.com/thestrikem/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-thestrikem-blue?style=flat-square&logo=Telegram"></a>
 <a href="mailto:dinkodanil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dinkodanil@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
