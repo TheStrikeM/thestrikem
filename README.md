@@ -1,7 +1,7 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
 <h3>Hi there</h1>
-<p>I'm Junior Software Engineer, Fullstack Web Developer</h3>
+<p>I'm write code in Fullstack Developing and use JavaScript, TypeScript, Python3, C++</h3>
 <br>
 <br>
 <h4>My skills:</h4>
