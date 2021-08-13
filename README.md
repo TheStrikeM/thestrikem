@@ -1,6 +1,6 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-<h1>Hi there</h1>
+<h1>Hi!</h1>
 <p>I'm write code in Fullstack Developing and use JavaScript, TypeScript, Python3, C++</h3>
 <br>
 <br>
