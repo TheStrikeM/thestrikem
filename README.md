@@ -25,6 +25,7 @@
 <h4>Stats:</h4>
 <p>
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true&theme=radical" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
 <h4>Links:</h4>
 
