@@ -23,12 +23,15 @@
 </p>
 <br>
 <h4>Stats:</h4>
-<p>
+<p align="center">
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Activity stat" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 <br />
 <img alt="Top Langs stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestrikem&layout=compact" />
 </p>
 <h4>Links:</h4>
+<p align="center">
 <a href="https://leetcode.com/thestrikem/"><img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode"/></a>
 <a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars"/></a>
+</p>
+
 
