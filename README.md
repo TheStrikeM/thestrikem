@@ -4,8 +4,8 @@
 <p>I'm write Fullstack Applications and use JavaScript, TypeScript, Python3, C++, Java</h3>
 <br>
 <br>
+<h4 align="center">Skills:</h4>
 <p>
-  <h4>Skills:</h4>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++"/>
@@ -22,14 +22,14 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma"/>
 </p>
 <br>
+<h4 align="center">Stats:</h4>
 <p align="center">
-<h4>Stats:</h4>
 <a href="https://github.com/thestrikem/github-readme-stats"><img alt="Activity stat" src="https://github-readme-stats.vercel.app/api?username=thestrikem&show_icons=true" /></a>
 <br />
 <img alt="Top Langs stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thestrikem&layout=compact" />
 </p>
+<h4 align="center">Links:</h4>
 <p align="center">
-<h4>Links:</h4>
 <a href="https://leetcode.com/thestrikem/"><img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode"/></a>
 <a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars"/></a>
 </p>
