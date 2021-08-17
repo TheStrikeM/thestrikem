@@ -33,5 +33,7 @@
 <a href="https://leetcode.com/thestrikem/"><img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode"/></a>
 <a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars"/></a>
 </p>
+<br /
+<h4>Have a nice day :)</h4
 
 
