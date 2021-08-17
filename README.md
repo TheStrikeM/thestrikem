@@ -1,6 +1,6 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-<h1>Hi!</h1>
+<h1 align="center">Hi!</h1>
 <p>I'm write Fullstack Applications and use JavaScript, TypeScript, Python3, C++, Java</h3>
 <br>
 <br>
@@ -34,6 +34,6 @@
 <a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars"/></a>
 </p>
 <br /
-<h4>Have a nice day :)</h4
+<h3 align="center">Have a nice day :)</h3>
 
 
