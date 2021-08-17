@@ -4,7 +4,7 @@
 <p>I'm write Fullstack Applications and use JavaScript, TypeScript, Python3, C++, Java</h3>
 <br>
 <br>
-<p align="center">
+<p>
   <h4>Skills:</h4>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
