@@ -7,6 +7,8 @@
 <h4>Skills:</h4>
 <p>
   <img alt="Top Langs" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
+  <img alt="Top Langs" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
+  <img alt="Top Langs" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React"/>
   <img alt="Top Langs" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux"/>
