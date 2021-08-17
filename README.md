@@ -10,6 +10,7 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux"/>
   <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React"/>
   <img alt="Redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux"/>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS"/>
