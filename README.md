@@ -31,6 +31,7 @@
 <p align="center">
 <a href="https://leetcode.com/thestrikem/"><img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode"/></a>
 <a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars"/></a>
+<a href="https://stackoverflow.com/users/14450234/thestrikem/"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=Stackoverflow"/>
 </p>
 <br />
 <h3 align="center">Have a nice day :)</h3>
