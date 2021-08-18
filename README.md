@@ -31,7 +31,7 @@
 <h4 align="center">Links:</h4>
 <p align="center">
 <a href="https://leetcode.com/thestrikem/"><img alt="LeetCode" src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode"/></a>
-<a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://www.codewars.com/users/TheStrikeM/badges/large"/></a>
+<a href="https://www.codewars.com/users/TheStrikeM/"><img alt="Codewars" src="https://www.codewars.com/users/TheStrikeM/badges/micro"/></a>
 <a href="https://stackoverflow.com/users/14450234/thestrikem/"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=Stackoverflow"/>
 </p>
 <br />
