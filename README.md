@@ -19,7 +19,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git"/>
   <img alt="Github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub"/>
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=Photoshop"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma"/>
 </p>
 <br>
