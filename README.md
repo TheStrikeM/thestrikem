@@ -1,7 +1,7 @@
 [![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
 
-<h1 align="center">Hi!</h1>
-<p>I'm write Fullstack Applications and use JavaScript, TypeScript, Python3, C++, Java</h3>
+<h1 align="center">Hi there!</h1>
+<h3>I'm learning to write complete Fullstack applications and use different technology's, pattern's and more practice in programming.</h3>
 <br>
 <br>
 <h4 align="center">Skills:</h4>
