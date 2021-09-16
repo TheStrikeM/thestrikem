@@ -1,4 +1,3 @@
-[![Header](https://github.com/TheStrikeM/thestrikem/blob/main/Frame%201.png)](https://vk.com/thestrikem)
 <p align="center"><a href="https://t.me/sqlester"><img alt="banner" src="https://github.com/TheStrikeM/thestrikem/blob/main/Frame%201.png"></img></a></p>
 
 <h1 align="center">Hi there!</h1>
