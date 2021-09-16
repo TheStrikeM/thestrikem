@@ -1,4 +1,4 @@
-[![Header](https://github.com/TheStrikeM/thestrikem/blob/main/thestrikem.png)](https://vk.com/thestrikem)
+[![Header](https://github.com/TheStrikeM/thestrikem/blob/main/Frame%201.png)](https://vk.com/thestrikem)
 
 <h1 align="center">Hi there!</h1>
 <h3>I'm learning to write complete Fullstack applications and use different technology's, pattern's and more practice in programming.</h3>
