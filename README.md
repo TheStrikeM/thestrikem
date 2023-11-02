@@ -6,19 +6,16 @@
 <br>
 <h4 align="center">Skills:</h4>
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java"/>
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=Go"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript"/>
   <img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=NestJS"/>
   <img alt="NPM" src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git"/>
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma"/>
 </p>
 <br>
